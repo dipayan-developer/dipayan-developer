@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipayan-developer 
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Python and JAVA
+- 🌱 I’m currently learning Python, Javascript and Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 8981655778
 
